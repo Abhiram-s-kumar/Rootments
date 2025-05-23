@@ -1,0 +1,96 @@
+/* HomeBanner.css */
+
+/* Medium Screens - Tablets */
+@media (max-width: 1024px) {
+  .home-banner {
+    height: 1401px;
+    padding-bottom: 4rem;
+    border-radius: 0;
+    border-top-right-radius: 186.5px;
+   border-bottom-right-radius: 196.5px;
+  }
+
+  .home-banner h1 {
+    font-size: 2.5rem !important;
+    width: 100% !important;
+  }
+
+  .home-banner p {
+    font-size: 1rem !important;
+    width: 100% !important;
+  }
+
+  .top-section,
+  .bottom-section {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center;
+    position: static !important;
+    gap: 2rem;
+  }
+
+  .top-section img,
+  .bottom-section img {
+    width: 300px;
+    margin: 0 auto;
+    position: static !important;
+  }
+
+  .top-section .text-white,
+  .bottom-section .text-white {
+    position: static !important;
+    width: 100% !important;
+    align-items: center;
+  }
+}
+
+/* Small Screens - Phones */
+@media (max-width: 640px) {
+  .home-banner {
+   
+    padding: 2rem 1rem;
+    border-radius: 0;
+    width: 393;
+    height: 1401;
+    top: 273px;
+   border-top-right-radius: 186.5px;
+   border-bottom-right-radius: 196.5px;
+
+  }
+  .firstgirl{
+    height: 359px;
+    width: 276px;
+    margin-top: -180px;
+    
+  }
+
+  .home-banner h1 {
+    font-size: 1.75rem !important;
+    line-height: 2.5rem;
+    width: 100% !important;
+  }
+
+  .home-banner p {
+    font-size: 0.9rem !important;
+    width: 100% !important;
+  }
+
+  .home-banner button {
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+  }
+
+  .top-section img,
+  .bottom-section img {
+    width: 100%;
+    max-width: 250px;
+    position: static !important;
+    margin-top: 30px;
+  }
+
+  .top-section .text-white,
+  .bottom-section .text-white {
+    align-items: center;
+    text-align: center;
+  }
+}

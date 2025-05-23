@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'sugar';
+    src: url('./fonts/Brown-Sugar-Font/Brown Sugar .otf') format('opentype'),
+        url('./fonts/Brown-Sugar-Font/Brown Sugar .ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'jishnu';
+    src: url('./fonts/Abhaya_Libre/Abhaya_Libre/AbhayaLibre-Bold.ttf') format('truetype'),
+        url('./fonts/Abhaya_Libre/Abhaya_Libre/AbhayaLibre-ExtraBold.ttf') format('truetype'),
+        url('./fonts/Abhaya_Libre/Abhaya_Libre/AbhayaLibre-Medium.ttf') format('truetype'),
+        url('./fonts/Abhaya_Libre/Abhaya_Libre/AbhayaLibre-Regular.ttf') format('truetype'),
+        url('./fonts/Abhaya_Libre/Abhaya_Libre/AbhayaLibre-SemiBold') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+.jishnufont {
+    font-family: 'jishnu';
+}
+
+.sugarfont {
+    font-family: 'sugar';
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .scrollbar-hide {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  
+
+
+  html {
+  scroll-behavior: smooth;
+}
