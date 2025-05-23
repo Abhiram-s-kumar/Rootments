@@ -17,7 +17,7 @@ const locations = [
     address:
       "Sahara Complex, Mysuru - Ooty Rd, Valiyangadi, Perinthalmanna, Kerala 679322",
     timings: "Mon-Sat | 10:00am - 06:00pm",
-    phone: "+91 7593844448",
+    phone: "+91 6235031133",
     mapSrc:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.686840469863!2d76.22323267480816!3d10.986993289174864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7cd8e9dce589f%3A0xc12607ef8755511!2sZorucci%20premium%20rentals%20Perinthalmanna!5e0!3m2!1sen!2sin!4v1747889188334!5m2!1sen!2sin",
     mapLink: "https://maps.app.goo.gl/PH5j2feCrU5Cb7SL7",
@@ -26,7 +26,7 @@ const locations = [
     name: "Zorucci Edappal",
     address: "Calicut Rd, Edappal, Kerala 679576",
     timings: "Mon-Sat | 10:00am - 06:00pm",
-    phone: "+91 7593844448",
+    phone: "+91 6235031100",
     mapSrc:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2623980094327!2d76.00391107769289!3d10.791203861919925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7b9b3ef556613%3A0x5293c9bf91462289!2sZorucci%20bridal%20rental%20Edappal!5e0!3m2!1sen!2sin!4v1747889255089!5m2!1sen!2sin",
     mapLink: "https://maps.app.goo.gl/YiY1sGxmqGorU76X8",
@@ -35,7 +35,7 @@ const locations = [
     name: "Zorucci Kottakkal",
     address: "Zabeel complex Changuvetty, Kottakkal, Kerala 676503",
     timings: "Mon-Sat | 10:00am - 06:00pm",
-    phone: "+91 6282 193345",
+    phone: "+91 6235031122",
     mapSrc:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.5144047534272!2d75.99077037480832!3d10.999978589162698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7b5b49e67c70d%3A0xf07919d302412cc9!2sBridal%20wedding%20hub%20Kottakkal!5e0!3m2!1sen!2sin!4v1747901757611!5m2!1sen!2sin",
     mapLink: "https://maps.app.goo.gl/hX2FrGkzQyW8gEaB8",
